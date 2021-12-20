@@ -1,6 +1,6 @@
 #include <cstring> 
 #include <iostream>
-
+#include <vector>
 class String{
 private:
     int n = 0;
